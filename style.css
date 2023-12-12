@@ -2,6 +2,14 @@
     Folha de estilo no site one page
 */
 
+/* CSS Reset */
+*{
+    margin: 0;
+    border: 0;
+    padding: 0; 
+}
+
+
 /*CONFIGURAÇÃO DOS TAMANHOS COM BASE NA IMAGEM img/breakpoints.png*/
 /* Smartphone Portrait -------------------------------------------*/
 
